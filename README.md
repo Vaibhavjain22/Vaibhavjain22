@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vaibhav 👋</h1>
+<h1 align="center">Hi, I'm Vaibhav Jain 👋</h1>
 
 <h3 align="center">AI Engineer | GenAI · Agentic Systems · Production RAG</h3>
 
@@ -58,9 +58,4 @@ A multi-agent system that plans **end-to-end travel itineraries** using real-tim
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhavjain22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavjain22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
